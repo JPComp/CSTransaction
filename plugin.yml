@@ -1,0 +1,5 @@
+name: CSTransaction
+version: 1.1.0 Release
+main: br.AtomGamers.CSTransaction.ChestShopTransaction
+description: A ChestShop transaction protection.
+author: AtomGamers

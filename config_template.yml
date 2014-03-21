@@ -1,0 +1,5 @@
+Command: "/shop"
+Success1: "&b[Shop] &fSeu Status de Shop foi alterado para 'ativado'"
+Success2: "&b[Shop] &fSeu Status de Shop foi alterado para 'desativado'"
+Error1: "&b[Shop] &fVoce esta com seu Status de compra/venda desativados, para ativar, utilize o comando @command"
+Error2: "&b[Shop] &fUtilize o Comando: /shop"
